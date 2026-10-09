@@ -1,4 +1,4 @@
-# nz-water-quality-analysis
+
 # New Zealand Water Quality Analysis
 
 ## Project Overview
