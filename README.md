@@ -17,8 +17,29 @@ This project explores New Zealand environmental water-quality data using data cl
 * **Programming:** Python
 * **Data analysis:** Pandas, NumPy
 * **Visualisation:** Matplotlib, Seaborn
-* **Statistical modelling:** Ordinary least squares (OLS) regression
+* **Machine learning:** Scikit-learn
+* **Statistical modelling:** Ordinary Least Squares (OLS) regression
+* **Machine learning models:** Decision Tree Regressor and Random Forest Regressor
+* **Model evaluation:** Cross-validation and held-out test-set evaluation
+* **Hyperparameter tuning:** Cross-validation-based model selection
 * **Environment:** Jupyter Notebook
+
+## Modelling and Evaluation
+
+The project explores water-temperature prediction using historical environmental observations and geographical variables.
+The modelling workflow includes:
+Building an Ordinary Least Squares (OLS) regression model.
+Training a Decision Tree Regressor to explore nonlinear relationships.
+Using cross-validation to assess model performance across different data splits.
+Tuning model hyperparameters and comparing model performance.
+Evaluating the selected model on a held-out test dataset.
+
+The goal is to understand how different modelling approaches perform when predicting water temperature from environmental and geographical features.
+
+## Skills Demonstrated
+
+Data cleaning, exploratory data analysis, data visualisation, feature selection, regression modelling, decision trees, random forests, cross-validation, hyperparameter tuning, and model evaluation.
+
 
 ## Water Temperature Prediction
 
